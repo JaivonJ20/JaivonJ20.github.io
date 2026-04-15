@@ -1,31 +1,19 @@
-# GH Pages Site (No Jekyll)
-> Template for a Markdown-based docs site hosted on GH Pages
+---
+permalink: /
+title: "About Me"
+excerpt: "About Me"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
 
-[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/gh-pages-no-jekyll?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/gh-pages-no-jekyll/releases/)
-[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+Hello. I'm Jaivon Jefferson
 
-Write Markdown or HTML pages and use GitHub's default theme for your site. No configuration needed. All you need is HTML, Markdown, and CSS knowledge - no need to use Jekyll templating or Liquid syntax.
+I'm currently a student at Clemson University, where i'm completing my bachelor's Degree in Computer Information System.
 
+I have a double minor in Cybersecurity and Business Administration. After graduation, I plan on beginning my career in the field of CyberSecurity or Software Development for hopfully what would be your company bringing me to where I am today.
 
-## Preview
+Check out some of the projects I've worked on; both at my university and my personal projects.
 
-<div align="center">
-    <a href="https://michaelcurrin.github.io/gh-pages-no-jekyll/">
-        <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" width="350" />
-    </a>
-</div>
-
-<br>
-
-<div align="center">
-
-[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-blue?style=for-the-badge)](https://michaelcurrin.github.io/gh-pages-no-jekyll/)
-
-[![Use this template](https://img.shields.io/badge/Use_this_template-Generate-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/gh-pages-no-jekyll/generate)
-
-</div>
-
-
-## License
-
-Released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
+[[My Projects]](https://JaivonJ20.github.io/projects)
