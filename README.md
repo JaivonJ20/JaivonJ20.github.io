@@ -24,6 +24,14 @@ I’m interested in building secure, scalable systems and developing software th
 
 ---
 
+## 🚀 Projects
+
+Check out some of the work I’ve done:
+
+👉 [My Projects](https://JaivonJ20.github.io/projects)
+
+---
+
 ## 💻 Skills
 
 **Languages:**
@@ -41,14 +49,6 @@ I’m interested in building secure, scalable systems and developing software th
 - Hoppscotch  
 - VS Code  
 - Trello  
-
----
-
-## 🚀 Projects
-
-Check out some of the work I’ve done:
-
-👉 [My Projects](https://JaivonJ20.github.io/projects)
 
 ---
 
