@@ -2,17 +2,27 @@
 permalink: /projects
 title: "Projects"
 excerpt: "Projects"
-author_profile: true
+author_profile: false
 redirect_from:
   - /projects/
   - /projects.html
 ---
 
-## Active or Previous Coursework Projects
+<p align="center">
+  <img src="/CPSC2150_Images/junit.png" width="600">
+</p>
 
-# From Intro to Software Engineering - CPSC2150 - Clemson University
+## 🚀 Active & Previous Coursework Projects
 
+---
 
-Junit Testing
+## 🧪 JUnit Testing – CPSC 2150 (Software Engineering)
 
-![Project Junit Tests](CPSC2150_Images/junit.png)
+This project focuses on developing and validating functionality using **JUnit testing**.  
+It demonstrates my ability to write structured test cases, verify expected outputs, and ensure code reliability through automated testing.
+
+Below is an example of a unit test I created for validating board behavior:
+
+![JUnit Test Example](/CPSC2150_Images/junit.png)
+
+---
