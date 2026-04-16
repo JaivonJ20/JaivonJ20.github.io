@@ -8,10 +8,6 @@ redirect_from:
   - /projects.html
 ---
 
-<p align="center">
-  <img src="/CPSC2150_Images/junit.png" width="600">
-</p>
-
 ## 🚀 Active & Previous Coursework Projects
 
 ---
@@ -23,6 +19,8 @@ It demonstrates my ability to write structured test cases, verify expected outpu
 
 Below is an example of a unit test I created for validating board behavior:
 
-![JUnit Test Example](/CPSC2150_Images/junit.png)
+<p align="center">
+  <img src="/CPSC2150_Images/junit.png" width="600">
+</p>
 
 ---
