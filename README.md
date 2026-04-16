@@ -2,7 +2,7 @@
 permalink: /
 title: "About Me"
 excerpt: "About Me"
-author_profile: false
+author_profile: true
 redirect_from:
   - /about/
   - /about.html
@@ -11,7 +11,6 @@ redirect_from:
 <div style="text-align: center; margin-top: 20px;">
   <img src="/assets/images/profile.jpg" alt="Jaivon Jefferson" width="180" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
   
-  <h1 style="margin-top: 15px;">Jaivon Jefferson</h1>
   <p><strong>Computer Information Systems Student</strong></p>
 </div>
 
