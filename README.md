@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="/assets/images/profile.PNG" alt="Jaivon Jefferson" width="180" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+  <img src="/assets/images/profile.png" alt="Jaivon Jefferson" width="180" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
   
   <p><strong>Computer Information Systems Student</strong></p>
 </div>
